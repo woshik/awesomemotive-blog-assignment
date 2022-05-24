@@ -1,0 +1,23 @@
+{
+  "name": "awesomemotive-blog-service",
+  "version": "0.1.0",
+  "description": "Blog service is responsible for store and retrieve blog and comment data.",
+  "main": "src/index.js",
+  "scripts": {
+    "start": "node .",
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/woshik/awesomemotive-blog-assignment.git"
+  },
+  "author": "Woshikuzzaman Anik",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/woshik/awesomemotive-blog-assignment/issues"
+  },
+  "homepage": "https://github.com/woshik/awesomemotive-blog-assignment#readme",
+  "dependencies": {
+    "express": "^4.18.1"
+  }
+}
